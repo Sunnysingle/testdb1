@@ -13,7 +13,7 @@ namespace Test
     public partial class Form1 : Form
     {
         //private Button btn1;
-        private double oldnum;
+        private double oldnum;//num1
         private double newnum;
         private string op;
         private double temp;//中间结果
