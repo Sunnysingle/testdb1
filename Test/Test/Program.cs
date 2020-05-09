@@ -18,10 +18,6 @@ namespace Test
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 
-            //commit ...
-
-             //test
-
         }
     }
 }
